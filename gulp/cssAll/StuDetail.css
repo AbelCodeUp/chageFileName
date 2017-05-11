@@ -1,0 +1,30 @@
+th {
+    background: #E2E7EB;
+    font-size: 16px;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    width: 100% !important;
+}
+
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+
+.tblDetail {
+}
+
+.tblDetail td {
+    border: 1px solid #808080;
+}
+
+.tdcolor {
+    background-color: #e2e7eb;
+}

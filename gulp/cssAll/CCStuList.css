@@ -1,0 +1,8 @@
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}

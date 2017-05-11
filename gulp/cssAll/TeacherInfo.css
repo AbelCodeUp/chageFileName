@@ -1,0 +1,11 @@
+.teacherImgHeader {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 20px;
+}
+.teacherImgHeader a img {
+    width: 100%;
+}

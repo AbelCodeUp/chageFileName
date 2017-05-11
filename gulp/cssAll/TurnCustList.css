@@ -1,0 +1,31 @@
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+
+#ulDept {
+    border: 1px solid #eee;
+}
+
+#ulDept .active {
+    background: #eee;
+}
+
+#ulDept li {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.navbox tr{
+    height: 50px;
+    vertical-align: middle;
+}
+.input-group{
+    width: 100%;
+}

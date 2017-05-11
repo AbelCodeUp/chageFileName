@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.Date-title {
+    width: 100%;
+    overflow: hidden;
+}
+
+.Date-title ul li {
+    float: left;
+    height: 50px;
+    text-align: center;
+    width: 80px;
+    margin-right: 5px;
+}
+
+.Date-title ul li p:nth-of-type(2) {
+    font-size: 12px;
+}
+
+.Date-title ul li p {
+    margin-bottom: 0;
+}
+
+.Date-title ul li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    background-color: #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding-top: 5px;
+    text-decoration: none;
+
+}
+
+.Date-box-table {
+    height: auto;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Date-box-ul {
+    width: 2650px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 0 !important;
+    height: 46px;
+}
+
+.Date-box-ul li {
+    width: 90px;
+    height: 46px;
+    float: left;
+    text-align: center;
+    line-height: 46px;
+    border-right: 1px solid #ccc;
+}
+
+.Date-box-big {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.Date-box-line {
+    width: 90%;
+    height: auto;
+    overflow-y: auto;
+    position: absolute;
+    left: 10%;
+    top: 0;
+}
+
+.Date-box-name {
+    width: 10%;
+    height: auto;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.Date-box-name ul li {
+    height: 46px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.fl {
+    float: left;
+}
+
+.Date-active {
+    background-color: #d13b41 !important;
+}
+
+#timebox {
+    overflow: hidden;
+    width: 2650px;
+}

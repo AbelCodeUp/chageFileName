@@ -1,0 +1,151 @@
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+
+.text-defult {
+    color: #f33c3c;
+}
+
+#tbCallList th {
+    font-size: 12px;
+}
+
+.media-body {
+    width: auto !important;
+}
+
+.media-body p {
+    word-break: break-word;
+}
+
+.headerImg img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+#dvRecord {
+    height: 406px;
+    overflow-y: auto;
+    background-color: #efe6e1;
+    border-radius: 10px;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+#dvRecord::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-track-piece {
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-thumb:vertical {
+    height: 5px;
+    background-color: #999999;
+    -webkit-border-radius: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-thumb:horizontal {
+    width: 5px;
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+.headerImg {
+    width: 65px;
+    height: 65px;
+}
+
+.formDiv * {
+    display: inline-block;
+    vertical-align: middle;
+}
+/* 对话框 */
+#talkbubble {
+    margin-left: 30px;
+    display: inline-block;
+    background: #f6f6f6;
+    position: relative;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    padding: 10px 16px;
+}
+
+#talkbubble:before {
+    content: "";
+    position: absolute;
+    right: 100%;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-right: 26px solid #f6f6f6;
+    border-bottom: 13px solid transparent;
+}
+
+.talkName {
+    display: inline-block;
+}
+
+.talkbox {
+    margin-bottom: 15px;
+}
+
+.talkbox * {
+    vertical-align: middle;
+}
+
+
+.stuTitie {
+    width: 80px;
+    text-align: right;
+    display: inline-block;
+}
+
+.stuTdColor {
+    background-color: #f6f6f6;
+    text-align: right !important;
+}
+
+.stuTable {
+    border: 1px solid #eee;
+    margin-bottom: 30px;
+}
+
+.stuTable tr {
+    height: 60px;
+    vertical-align: middle;
+}
+
+.tableLine {
+    border: 1px dotted #eee;
+    width: 100%;
+    height: 1px;
+    margin-bottom: 30px;
+    float: left;
+}
+
+.stuTable tr td {
+    border-bottom: 1px solid #eee;
+}
+
+.aPhone {
+    cursor: pointer;
+}
+
+.aPhone img {
+    width: 20px;
+    height: 20px;
+}

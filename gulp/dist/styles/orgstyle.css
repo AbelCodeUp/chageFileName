@@ -1,0 +1,1514 @@
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+
+#ulDept {
+    height: 406px;
+    overflow-y: auto;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+#ulDept::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+#ulDept::-webkit-scrollbar-track-piece {
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+#ulDept::-webkit-scrollbar-thumb:vertical {
+    height: 5px;
+    background-color: #999999;
+    -webkit-border-radius: 6px;
+}
+
+#ulDept::-webkit-scrollbar-thumb:horizontal {
+    width: 5px;
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+#ulDept {
+    border: 1px solid #eee;
+}
+
+#ulDept .active {
+    background: #eee;
+}
+
+#ulDept li {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#empList {
+    border: 1px solid #eee;
+    position: relative;
+    z-index: 2;
+    margin-left: -1px;
+    min-height: 300px;
+}
+
+#empList {
+    border: 1px solid #eee;
+    position: relative;
+    z-index: 2;
+    margin-left: -1px;
+    min-height: 300px;
+    padding-top: 20px;
+}
+
+#empList .empDiv {
+    margin-bottom: 15px;
+}
+.navbox tr{
+    height: 50px;
+    vertical-align: middle;
+}
+.input-group{
+    width: 100%;
+}
+#tbDataList tbody td{
+    position: relative;
+}
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+
+table th{
+    text-align: center;
+}
+body{
+    background: #d9e1e7;
+}
+.page-header {
+    font-size: 24px;
+    margin: 0 0 20px;
+    padding: 0;
+    border: none;
+    line-height: 28px;
+}
+.classHeader {
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background: none;
+}
+.classHeader2 {
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background: none;
+    padding-top:10px;
+}
+.classHeader img,.classHeader2 img {
+    margin-left: 0px;
+}
+.seletX {
+    border-bottom: 1px solid #edeff0;
+    padding-bottom: 20px;
+}
+.selectTime{
+    margin-bottom:20px;
+    border-bottom: 1px solid #edeff0;
+    padding-bottom:30px;
+}
+.modal-dialog{
+    width: 1190px!important;
+}
+.setModel-content{
+    width: 1190px!important;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+
+.text-defult {
+    color: #f33c3c;
+}
+
+#tbCallList th {
+    font-size: 12px;
+}
+
+.media-body {
+    width: auto !important;
+}
+
+.media-body p {
+    word-break: break-word;
+}
+
+.headerImg img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+#dvRecord {
+    height: 406px;
+    overflow-y: auto;
+    background-color: #efe6e1;
+    border-radius: 10px;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+#dvRecord::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-track-piece {
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-thumb:vertical {
+    height: 5px;
+    background-color: #999999;
+    -webkit-border-radius: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-thumb:horizontal {
+    width: 5px;
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+.headerImg {
+    width: 65px;
+    height: 65px;
+}
+
+.formDiv * {
+    display: inline-block;
+    vertical-align: middle;
+}
+/* 对话框 */
+#talkbubble {
+    margin-left: 30px;
+    display: inline-block;
+    background: #f6f6f6;
+    position: relative;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    padding: 10px 16px;
+}
+
+#talkbubble:before {
+    content: "";
+    position: absolute;
+    right: 100%;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-right: 26px solid #f6f6f6;
+    border-bottom: 13px solid transparent;
+}
+
+.talkName {
+    display: inline-block;
+}
+
+.talkbox {
+    margin-bottom: 15px;
+}
+
+.talkbox * {
+    vertical-align: middle;
+}
+
+
+.stuTitie {
+    width: 80px;
+    text-align: right;
+    display: inline-block;
+}
+
+.stuTdColor {
+    background-color: #f6f6f6;
+    text-align: right !important;
+}
+
+.stuTable {
+    border: 1px solid #eee;
+    margin-bottom: 30px;
+}
+
+.stuTable tr {
+    height: 60px;
+    vertical-align: middle;
+}
+
+.tableLine {
+    border: 1px dotted #eee;
+    width: 100%;
+    height: 1px;
+    margin-bottom: 30px;
+    float: left;
+}
+
+.stuTable tr td {
+    border-bottom: 1px solid #eee;
+}
+
+.aPhone {
+    cursor: pointer;
+}
+
+.aPhone img {
+    width: 20px;
+    height: 20px;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+
+.text-defult {
+    color: #f33c3c;
+}
+
+#tbCallList th {
+    font-size: 12px;
+}
+
+.media-body {
+    width: auto !important;
+}
+
+.media-body p {
+    word-break: break-word;
+}
+
+#dvRecord {
+    height: 406px;
+    overflow-y: auto;
+    background-color: #efe6e1;
+    border-radius: 10px;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+#dvRecord::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-track-piece {
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-thumb:vertical {
+    height: 5px;
+    background-color: #999999;
+    -webkit-border-radius: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-thumb:horizontal {
+    width: 5px;
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+.headerImg {
+    width: 65px;
+    height: 65px;
+}
+
+.formDiv * {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* 对话框 */
+#talkbubble {
+    margin-left: 30px;
+    display: inline-block;
+    background: #f6f6f6;
+    position: relative;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    padding: 10px 16px;
+}
+
+#talkbubble:before {
+    content: "";
+    position: absolute;
+    right: 100%;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-right: 26px solid #f6f6f6;
+    border-bottom: 13px solid transparent;
+}
+
+.talkName {
+    display: inline-block;
+}
+
+.talkbox {
+    margin-bottom: 15px;
+}
+
+.talkbox * {
+    vertical-align: middle;
+}
+
+
+.stuTitie {
+    width: 80px;
+    text-align: right;
+    display: inline-block;
+}
+
+.stuTdColor {
+    background-color: #f6f6f6;
+    text-align: right !important;
+}
+
+.stuTable {
+    border: 1px solid #eee;
+    margin-bottom: 30px;
+}
+
+.stuTable tr {
+    height: 60px;
+    vertical-align: middle;
+}
+
+.tableLine {
+    border: 1px dotted #eee;
+    width: 100%;
+    height: 1px;
+    margin-bottom: 30px;
+    float: left;
+}
+
+.stuTable tr td {
+    border-bottom: 1px solid #eee;
+}
+
+.aPhone {
+    cursor: pointer;
+}
+
+.aPhone img {
+    width: 20px;
+    height: 20px;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+body{
+    background: #d9e1e7;
+}
+.page-header {
+    font-size: 24px;
+    margin: 0 0 20px;
+    padding: 0;
+    border: none;
+    line-height: 28px;
+}
+.classHeader {
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background: none;
+}
+.classHeader2 {
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background: none;
+    padding-top:10px;
+}
+.classHeader img,.classHeader2 img {
+    margin-left: 0px;
+}
+.seletX {
+    border-bottom: 1px solid #edeff0;
+    padding-bottom: 20px;
+}
+.selectTime{
+    margin-bottom:20px;
+    border-bottom: 1px solid #edeff0;
+    padding-bottom:30px;
+}
+.bxk_times li{
+    position:relative;
+    line-height:42px;
+}
+.bxk_times li span{
+    position:absolute;
+    left:0;
+    right:0;
+    margin:0 auto;
+    bottom:-8px;
+    font-size:12px;
+}
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+
+#ulDept {
+    border: 1px solid #eee;
+}
+
+#ulDept .active {
+    background: #eee;
+}
+
+#ulDept li {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#empList {
+    border: 1px solid #eee;
+    position: relative;
+    z-index: 2;
+    margin-left: -1px;
+    min-height: 300px;
+}
+
+#empList {
+    border: 1px solid #eee;
+    position: relative;
+    z-index: 2;
+    margin-left: -1px;
+    min-height: 300px;
+    padding-top: 20px;
+}
+
+#empList .empDiv {
+    margin-bottom: 15px;
+}
+.checkbox label{
+    line-height: 20px;
+}
+._checkbox-inline{
+    margin-right: 15px;
+}
+.checkbox{
+    overflow: hidden;
+}
+._checkbox-inline{
+    float: left;
+}
+
+#roleDiv table{
+    width: 70%;
+    margin: 0 auto;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.dvRecord {
+    height: 406px;
+    overflow-y: auto;
+    background-color: #efe6e1;
+    border-radius: 10px;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+.dvRecord::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+.dvRecord::-webkit-scrollbar-track-piece {
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+.dvRecord::-webkit-scrollbar-thumb:vertical {
+    height: 5px;
+    background-color: #999999;
+    -webkit-border-radius: 6px;
+}
+
+.dvRecord::-webkit-scrollbar-thumb:horizontal {
+    width: 5px;
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+.teacherInfo {
+    overflow: hidden;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.teacherList > ul > li {
+    margin-bottom: 12px;
+}
+
+.classHeader, .tbTeacherTitle {
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+}
+
+.tbTeacherTitle {
+    line-height: 25px;
+}
+
+.tb-teacher-ls {
+    padding: 0 15px;
+}
+
+.tb-teacher-ls > li {
+    overflow: hidden;
+    padding: 10px 5px;
+    border-bottom: 1px solid #ddd;
+}
+
+.tb-tah-list li {
+    overflow: hidden;
+}
+
+.mg-left {
+    margin-right: 20px;
+}
+
+.tb-tah-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.tb-tah-img img {
+    width: 100%;
+}
+
+.teacherImg {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 15px;
+}
+
+.teacherImg img {
+    width: 100%;
+}
+
+.active > a {
+    background: #ddd !important;
+}
+
+.tchTab ul {
+    overflow: hidden;
+}
+
+.tchTab ul li {
+    float: left;
+    margin-right: 10px;
+}
+
+.tchTab ul li.txt-red {
+    color: #bd3535;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.table_1208 {
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.table_1208 td {
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    min-width: 80px;
+    padding: 10px;
+}
+
+.table-ti-1208 {
+    background: #eee;
+    text-align: right;
+    font-weight: bold;
+    padding: 10px 0 10px 10px;
+}
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+
+.teacherImgHeader {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.teacherImgHeader a img {
+    width: 100%;
+    height: 100%;
+}
+
+#dvRecord {
+    height: 406px;
+    overflow-y: auto;
+    background-color: #efe6e1;
+    border-radius: 10px;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+#dvRecord::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-track-piece {
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-thumb:vertical {
+    height: 5px;
+    background-color: #999999;
+    -webkit-border-radius: 6px;
+}
+
+#dvRecord::-webkit-scrollbar-thumb:horizontal {
+    width: 5px;
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+.headerImg {
+    width: 65px;
+    height: 65px;
+}
+
+.formDiv * {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* 对话框 */
+#talkbubble {
+    margin-left: 30px;
+    display: inline-block;
+    background: #f6f6f6;
+    position: relative;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    padding: 10px 16px;
+}
+
+#talkbubble:before {
+    content: "";
+    position: absolute;
+    right: 100%;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border-top: 13px solid transparent;
+    border-right: 26px solid #f6f6f6;
+    border-bottom: 13px solid transparent;
+}
+
+.talkName {
+    display: inline-block;
+}
+
+.talkbox {
+    margin-bottom: 15px;
+}
+
+.talkbox * {
+    vertical-align: middle;
+}
+
+
+.stuTitie {
+    width: 80px;
+    text-align: right;
+    display: inline-block;
+}
+
+.stuTdColor {
+    background-color: #f6f6f6;
+    text-align: right !important;
+}
+
+.stuTable {
+    border: 1px solid #eee;
+    margin-bottom: 30px;
+}
+
+.stuTable tr {
+    height: 60px;
+    vertical-align: middle;
+}
+
+.tableLine {
+    border: 1px dotted #eee;
+    width: 100%;
+    height: 1px;
+    margin-bottom: 30px;
+    float: left;
+}
+
+.stuTable tr td {
+    border-bottom: 1px solid #eee;
+}
+
+.aPhone {
+    cursor: pointer;
+}
+
+.aPhone img {
+    width: 20px;
+    height: 20px;
+}
+th {
+    background: #E2E7EB;
+    font-size: 16px;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    width: 100% !important;
+}
+
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+
+.tblDetail {
+}
+
+.tblDetail td {
+    border: 1px solid #808080;
+}
+
+.tdcolor {
+    background-color: #e2e7eb;
+}
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+
+#ulDept {
+    border: 1px solid #eee;
+}
+
+#ulDept .active {
+    background: #eee;
+}
+
+#ulDept li {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#empList {
+    border: 1px solid #eee;
+    position: relative;
+    z-index: 2;
+    margin-left: -1px;
+    min-height: 300px;
+}
+
+#empList {
+    border: 1px solid #eee;
+    position: relative;
+    z-index: 2;
+    margin-left: -1px;
+    min-height: 300px;
+    padding-top: 20px;
+}
+
+#empList .empDiv {
+    margin-bottom: 15px;
+}
+
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+
+.bxk_times li {
+    color: #000;
+}
+
+.bxk_times li.tActive {
+    color: red;
+}
+
+.bxk_tActive {
+    color: red !important;
+}
+
+.btn-default {
+    background-color: #ccc !important;
+    border: 1px solid #ccc !important;
+}
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.Date-title {
+    width: 100%;
+    overflow: hidden;
+}
+
+.Date-title ul li {
+    float: left;
+    height: 50px;
+    text-align: center;
+    width: 80px;
+    margin-right: 5px;
+}
+
+.Date-title ul li p:nth-of-type(2) {
+    font-size: 12px;
+}
+
+.Date-title ul li p {
+    margin-bottom: 0;
+}
+
+.Date-title ul li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    background-color: #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding-top: 5px;
+    text-decoration: none;
+
+}
+
+.Date-box-table {
+    height: auto;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.Date-box-ul {
+    width: 2650px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 0 !important;
+    height: 46px;
+}
+
+.Date-box-ul li {
+    width: 90px;
+    height: 46px;
+    float: left;
+    text-align: center;
+    line-height: 46px;
+    border-right: 1px solid #ccc;
+}
+
+.Date-box-big {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.Date-box-line {
+    width: 90%;
+    height: auto;
+    overflow-y: auto;
+    position: absolute;
+    left: 10%;
+    top: 0;
+}
+
+.Date-box-name {
+    width: 10%;
+    height: auto;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.Date-box-name ul li {
+    height: 46px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.fl {
+    float: left;
+}
+
+.Date-active {
+    background-color: #d13b41 !important;
+}
+
+#timebox {
+    overflow: hidden;
+    width: 2650px;
+}
+.teacherImgHeader {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 20px;
+}
+.teacherImgHeader a img {
+    width: 100%;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.dvRecord {
+    height: 406px;
+    overflow-y: auto;
+    background-color: #efe6e1;
+    border-radius: 10px;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+.dvRecord::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+.dvRecord::-webkit-scrollbar-track-piece {
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+.dvRecord::-webkit-scrollbar-thumb:vertical {
+    height: 5px;
+    background-color: #999999;
+    -webkit-border-radius: 6px;
+}
+
+.dvRecord::-webkit-scrollbar-thumb:horizontal {
+    width: 5px;
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+.teacherInfo {
+    overflow: hidden;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.teacherList > ul > li {
+    margin-bottom: 12px;
+}
+
+.classHeader, .tbTeacherTitle {
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+}
+
+.tbTeacherTitle {
+    line-height: 25px;
+}
+
+.tb-teacher-ls {
+    padding: 0 15px;
+}
+
+.tb-teacher-ls > li {
+    overflow: hidden;
+    padding: 10px 5px;
+    border-bottom: 1px solid #ddd;
+}
+
+.tb-tah-list li {
+    overflow: hidden;
+}
+
+.mg-left {
+    margin-right: 20px;
+}
+
+.tb-tah-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.tb-tah-img img {
+    width: 100%;
+}
+
+.teacherImg {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 15px;
+}
+
+.teacherImg img {
+    width: 100%;
+}
+
+.active > a {
+    background: #ddd !important;
+}
+
+.tchTab ul {
+    overflow: hidden;
+}
+
+.tchTab ul li {
+    float: left;
+    margin-right: 10px;
+}
+
+.tchTab ul li.txt-red {
+    color: #bd3535;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}   #ulDept {
+        border: 1px solid #eee;
+    }
+
+#ulDept .active {
+    background: #eee;
+}
+
+#ulDept li {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#empList {
+    border: 1px solid #eee;
+    position: relative;
+    z-index: 2;
+    margin-left: -1px;
+    min-height: 300px;
+}
+
+#empList {
+    border: 1px solid #eee;
+    position: relative;
+    z-index: 2;
+    margin-left: -1px;
+    min-height: 300px;
+    padding-top: 20px;
+}
+
+#empList .empDiv {
+    margin-bottom: 15px;
+}
+
+#ulDept {
+    height: 406px;
+    overflow-y: auto;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+#ulDept::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+#ulDept::-webkit-scrollbar-track-piece {
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+#ulDept::-webkit-scrollbar-thumb:vertical {
+    height: 5px;
+    background-color: #999999;
+    -webkit-border-radius: 6px;
+}
+
+#ulDept::-webkit-scrollbar-thumb:horizontal {
+    width: 5px;
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+
+#ulDept {
+    border: 1px solid #eee;
+}
+
+#ulDept .active {
+    background: #eee;
+}
+
+#ulDept li {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.navbox tr{
+    height: 50px;
+    vertical-align: middle;
+}
+.input-group{
+    width: 100%;
+}
+.lastTd {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80px;
+    height: 100%;
+}
+#ulDept {
+    border: 1px solid #eee;
+}
+
+#ulDept .active {
+    background: #eee;
+}
+
+#ulDept li {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+}

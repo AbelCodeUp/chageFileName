@@ -1,0 +1,128 @@
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.dvRecord {
+    height: 406px;
+    overflow-y: auto;
+    background-color: #efe6e1;
+    border-radius: 10px;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+.dvRecord::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+.dvRecord::-webkit-scrollbar-track-piece {
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+.dvRecord::-webkit-scrollbar-thumb:vertical {
+    height: 5px;
+    background-color: #999999;
+    -webkit-border-radius: 6px;
+}
+
+.dvRecord::-webkit-scrollbar-thumb:horizontal {
+    width: 5px;
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+
+.teacherInfo {
+    overflow: hidden;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.teacherList > ul > li {
+    margin-bottom: 12px;
+}
+
+.classHeader, .tbTeacherTitle {
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+}
+
+.tbTeacherTitle {
+    line-height: 25px;
+}
+
+.tb-teacher-ls {
+    padding: 0 15px;
+}
+
+.tb-teacher-ls > li {
+    overflow: hidden;
+    padding: 10px 5px;
+    border-bottom: 1px solid #ddd;
+}
+
+.tb-tah-list li {
+    overflow: hidden;
+}
+
+.mg-left {
+    margin-right: 20px;
+}
+
+.tb-tah-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.tb-tah-img img {
+    width: 100%;
+}
+
+.teacherImg {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 15px;
+}
+
+.teacherImg img {
+    width: 100%;
+}
+
+.active > a {
+    background: #ddd !important;
+}
+
+.tchTab ul {
+    overflow: hidden;
+}
+
+.tchTab ul li {
+    float: left;
+    margin-right: 10px;
+}
+
+.tchTab ul li.txt-red {
+    color: #bd3535;
+}

@@ -1,0 +1,41 @@
+body{
+    background: #d9e1e7;
+}
+.page-header {
+    font-size: 24px;
+    margin: 0 0 20px;
+    padding: 0;
+    border: none;
+    line-height: 28px;
+}
+.classHeader {
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background: none;
+}
+.classHeader2 {
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background: none;
+    padding-top:10px;
+}
+.classHeader img,.classHeader2 img {
+    margin-left: 0px;
+}
+.seletX {
+    border-bottom: 1px solid #edeff0;
+    padding-bottom: 20px;
+}
+.selectTime{
+    margin-bottom:20px;
+    border-bottom: 1px solid #edeff0;
+    padding-bottom:30px;
+}
+.modal-dialog{
+    width: 1190px!important;
+}
+.setModel-content{
+    width: 1190px!important;
+}

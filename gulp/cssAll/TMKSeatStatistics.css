@@ -1,0 +1,11 @@
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}

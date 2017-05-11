@@ -7,7 +7,7 @@ fs.readdir(path, function(err, files) {
     files.forEach(function(filename) {
         //运用正则表达式替换oldPath中不想要的部分
         var oldPath = path + '/' + filename,
-        newPath = path + '/' + filename.replace(/.pdf.pdf/, '.pdf').replace(/_6/,'6_');
+        newPath = path + '/' + filename.replace(/_/, '');
 
         // fs.rename(oldPath, newPath, callback) 
         fs.rename(oldPath, newPath, function(err) {

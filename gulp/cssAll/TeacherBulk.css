@@ -1,0 +1,28 @@
+.new-a, .setinfo, .excel, .sendmail {
+    display: inline-block;
+}
+
+#tbtchDataList tbody tr td:nth-child(7) {
+    white-space: nowrap;
+}
+
+#tbtchDataList tbody tr td:nth-child(8) {
+    white-space: nowrap;
+}
+
+.bxk_times li {
+    color: #000;
+}
+
+.bxk_times li.tActive {
+    color: red;
+}
+
+.bxk_tActive {
+    color: red !important;
+}
+
+.btn-default {
+    background-color: #ccc !important;
+    border: 1px solid #ccc !important;
+}

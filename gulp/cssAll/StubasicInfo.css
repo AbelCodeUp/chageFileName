@@ -1,0 +1,18 @@
+.table_1208 {
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.table_1208 td {
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    min-width: 80px;
+    padding: 10px;
+}
+
+.table-ti-1208 {
+    background: #eee;
+    text-align: right;
+    font-weight: bold;
+    padding: 10px 0 10px 10px;
+}
